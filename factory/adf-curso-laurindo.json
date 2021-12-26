@@ -1,0 +1,9 @@
+{
+	"name": "adf-curso-laurindo",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "482f4f98-c674-4c77-8bb5-c07c1c596f90",
+		"tenantId": "f2554c8d-f8a7-4d38-b534-98737c39f026"
+	}
+}
